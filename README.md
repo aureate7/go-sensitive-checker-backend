@@ -1,3 +1,7 @@
+🔗 在线体验：https://sensiteword.site
+
+⭐ 如果你觉得这个项目有价值，请点一个 Star 支持我们！
+
 # go-sensitive-checker
 Sensitive Checker --- --- Developed by Golang
 
